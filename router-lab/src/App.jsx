@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <nav id="navBar">
-        <Link className="links" to="/"><h1>Kalvium💖</h1></Link>
+        <Link className="links" to=""><h1>Kalvium💖</h1></Link>
       <div id="contactsAbout">
         <Link className="links" to="/Contacts"><h3>Contacts</h3></Link>
         <Link className="links" to="/About"><h3>About</h3></Link>
